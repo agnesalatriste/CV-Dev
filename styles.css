@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(248, 245, 250);
+}
+
+h1{
+    color:blueviolet; 
+    text-align: right;
+}
+
+h2{
+    color: blueviolet; 
+    font-size: x-large; 
+    font-style: oblique; 
+    font-weight: bolder;
+}
+
+h3{
+    color: rgb(201, 57, 201);
+}
+
+p{
+    color: black; 
+    font-weight: lighter; 
+    font-style: italic;
+}
+
+#titulo{
+    text-align: right;
+    background: honeydew;
+}
